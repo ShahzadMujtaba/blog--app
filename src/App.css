@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.style-post{
+  margin-top: 55px;
+  padding: 20px;
+}
+
+.link-style:hover{
+  color: orange;
+}
+
